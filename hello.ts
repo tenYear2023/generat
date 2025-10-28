@@ -1,1 +1,1 @@
-HELLOE WORLD!
+const Hello = 'Hello world!'
